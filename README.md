@@ -1,1 +1,1 @@
-# NLP
+This dataset contains customer sentiments and dataset  text, sentiment (positive or negative), source of the sentiment, date/time of the sentiment, user ID, location, and confidence score. The sentiments reflect customers' opinions and experiences with products, services, movies, music, books, restaurants, websites, customer support, and more.
